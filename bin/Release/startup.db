@@ -1,4 +1,0 @@
-$EXE=/home/mel/Documents/csharp/Tester/bin/Debug/Tester.exe;
-$EXE=mono;
-$SYS_CALL_ARG=/home/mel/Documents/csharp/Tester/bin/Debug/Tester.exe working with the f arguments;
-SYS_CALL($EXE)=$EXIT-STATUS;
