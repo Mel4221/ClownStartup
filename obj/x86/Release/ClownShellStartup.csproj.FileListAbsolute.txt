@@ -1,0 +1,4 @@
+/home/mel/Documents/csharp/ClownShellStartup/bin/Release/ClownShellStartup.exe
+/home/mel/Documents/csharp/ClownShellStartup/obj/x86/Release/ClownShellStartup.csproj.CoreCompileInputs.cache
+/home/mel/Documents/csharp/ClownShellStartup/obj/x86/Release/ClownShellStartup.exe
+/home/mel/Documents/csharp/ClownShellStartup/obj/x86/Release/ClownShellStartup.csproj.AssemblyReference.cache

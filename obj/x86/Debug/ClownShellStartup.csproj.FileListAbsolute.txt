@@ -1,0 +1,6 @@
+/home/mel/Documents/csharp/ClownShellStartup/bin/Debug/ClownShellStartup.exe
+/home/mel/Documents/csharp/ClownShellStartup/bin/Debug/ClownShellStartup.pdb
+/home/mel/Documents/csharp/ClownShellStartup/obj/x86/Debug/ClownShellStartup.csproj.AssemblyReference.cache
+/home/mel/Documents/csharp/ClownShellStartup/obj/x86/Debug/ClownShellStartup.csproj.CoreCompileInputs.cache
+/home/mel/Documents/csharp/ClownShellStartup/obj/x86/Debug/ClownShellStartup.exe
+/home/mel/Documents/csharp/ClownShellStartup/obj/x86/Debug/ClownShellStartup.pdb

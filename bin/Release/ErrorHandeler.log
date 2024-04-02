@@ -1,0 +1,13 @@
+QKEYID=9343;
+ID=1001;
+KEY=log;
+VALUE=####
+ There Was an error with the given type of error: 'ExecutionError' 'System.ComponentModel.Win32Exception (0x80004005): ApplicationName='reboot', CommandLine='0', CurrentDirectory='', Native error= Cannot find the specified file
+  at System.Diagnostics.Process.StartWithCreateProcess (System.Diagnostics.ProcessStartInfo startInfo) [0x0029f] in <a8a996a78a804d888710c9e2575d78c8>:0 
+  at System.Diagnostics.Process.Start () [0x0003a] in <a8a996a78a804d888710c9e2575d78c8>:0 
+  at (wrapper remoting-invoke-with-check) System.Diagnostics.Process.Start()
+  at System.Diagnostics.Process.Start (System.Diagnostics.ProcessStartInfo startInfo) [0x0001b] in <a8a996a78a804d888710c9e2575d78c8>:0 
+  at Parser.CodeParser+<>c__DisplayClass59_0.<SetExecution>b__29 () [0x0006e] in <3272216132554f5b8ea4a46a5702a027>:0 
+  at ScriptRunner.Runner.Run (System.Action code) [0x00000] in <2d537387c2b64326af34d01313c4b366>:0 ' 
+####;
+RELATION=4/2/2024 1:28:35 PM;
